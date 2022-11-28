@@ -5,4 +5,5 @@ In this Challenge we had to refactor code and reaching the criteria of better ac
 
 ### URL Links and Screenshot
 GitHub Repository Link: https://github.com/dinoarslanovic26/Official-Module-1-Challenge
-Deployed URL:
+Deployed URL: https://dinoarslanovic26.github.io/Official-Module-1-Challenge/
+![Snag_3f7fa4d3](https://user-images.githubusercontent.com/117688172/204398854-f9c9aba5-641b-46ea-9c61-8111a28346fd.png)
